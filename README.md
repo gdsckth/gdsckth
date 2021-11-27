@@ -28,5 +28,8 @@ Also join our discord server to engage with the community: https://discord.gg/8k
 
 Follow us on Facebook - https://www.facebook.com/GDSCKTH
 
+    
+
 - 👀 Signed
+
 GDSC KTH Core Team
