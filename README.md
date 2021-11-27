@@ -1,8 +1,9 @@
-
+<!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+--->
 
 <!---
 gdsckth/gdsckth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,3 +27,6 @@ We can't wait to have you :)
 Also join our discord server to engage with the community: https://discord.gg/8kTNbpSXh7
 
 Follow us on Facebook - https://www.facebook.com/GDSCKTH
+
+- 👀 Signed
+GDSC KTH Core Team
